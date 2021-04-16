@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Don't you worry about Planet Express; I'll worry about blank.
 Use the left arrow to go back!
